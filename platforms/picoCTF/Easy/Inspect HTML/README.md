@@ -21,10 +21,10 @@ So I tried using the inspect tool on the website.
 
 ![Screenshot of the inspect tool](https://github.com/FikuriKuri/Writeups/blob/main/platforms/picoCTF/Easy/Inspect%20HTML/images/inspect-inspect-html.png)
 
-After a brief dive, I found the flag in a comment below a '<p>' block.
+After a brief dive, I found the flag in a comment below a paragraph block.
 
 ![Screenshot of the flag](https://github.com/FikuriKuri/Writeups/blob/main/platforms/picoCTF/Easy/Inspect%20HTML/images/Screenshot%202025-11-07%20165227.png)
 
-'''
+```
 picoCTF{1n5p3t0r_0f_h7ml_fd5d57bd}
-'''
+```
