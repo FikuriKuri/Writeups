@@ -14,13 +14,15 @@ A website with a table titled *Inspect Me* that has two clickable column named *
 
 **What** column header responds when clicked, a merged column below it will change into the name of the column header and an *answer*, in this case it says *I made a website*.
 
-
+![Screenshot of the what column for the challenge](https://github.com/FikuriKuri/Writeups/blob/c4baec3f3e7e1e825fd7274cacac9008d1ceadf1/platforms/picoCTF/Easy/web/Insp3ct0r/images/what-Insp3ct0r.png)
 
 **How** column header also responds when clicked, a merged column below it will change into the name of the column header and an *answer*, in this case it says 
 *I used these to make this site:*
 *HTML*
 *CSS*
 *JS (JavaScript)*.
+
+![Screenshot of the what column for the challenge](https://github.com/FikuriKuri/Writeups/blob/c4baec3f3e7e1e825fd7274cacac9008d1ceadf1/platforms/picoCTF/Easy/web/Insp3ct0r/images/how-Insp3ct0r.png)
 
 ## How to Solve
 Right before going to the web, on the challenge description there are two given hints, the first one says:
