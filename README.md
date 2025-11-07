@@ -5,8 +5,8 @@
 <h1 align="center">🏴‍☠️ CTF Writeups Repository</h1>
 
 <p align="center">
-  <em>A collection of Capture The Flag (CTF) writeups, notes, and competition highlights.</em><br>
-  <strong>By:</strong> <code>[YOUR TEAM NAME]</code> • <strong>Years Active:</strong> [YYYY–YYYY]
+  <em>A collection of Capture The Flag (CTF) writeups, notes, and competition highlights that I have followed.</em><br>
+  <strong>By:</strong> <code>[YOUR TEAM NAME]</code> • <strong>Years Active:</strong> [2025–2024]
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ Use this repo as a reference for methodologies, payload construction, and learni
 ## 🧰 Repository Structure
 
 ```plaintext
-📁 CTF-Writeups/
+📁 Writeups/
 ├── 🧠 crypto/
 ├── 🕵️‍♂️ forensics/
 ├── 🧩 misc/
