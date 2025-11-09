@@ -1,4 +1,4 @@
-# Inspect HTML
+# IntroToBurp
 > Try here to find the flag
 
 ## About the Challenge
