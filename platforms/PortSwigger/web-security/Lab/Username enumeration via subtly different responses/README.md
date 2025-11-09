@@ -11,19 +11,17 @@
 ## About the Challenge
 A website with a UI of a blog. There is a menu titled *Home* and *My Account* on the upper right side.
 
-![Screenshot of the web for the challenge]()
-
 ## How to Solve
 The lab session tells us directly that brute-force is necessary in order to login with a user's credentials. So in Burp Suite I went to the *Intruder* tool. There I configure the attack settings for the username, sniper attack with the wordlist provided. Then I started it.
 
 For a while the result may look zero, but after further inspection, the correct username does not have a point symbol at the end of the *wrong username* warning. The username was `vagrant`. Therefore, I took that data and proceed with the password.
 
-![Screenshot of the correct username]()
+![Screenshot of the correct username](https://github.com/FikuriKuri/Writeups/blob/ac93adb906531c55fe29c6a0d012cc4bca4fc925/platforms/PortSwigger/web-security/Lab/Username%20enumeration%20via%20subtly%20different%20responses/images/username-Assignment4.png)
 
 And then, after a while, I found the correcct password, which was `thunder`
 
-![Screenshot of the correct password]()
+![Screenshot of the correct password](https://github.com/FikuriKuri/Writeups/blob/ac93adb906531c55fe29c6a0d012cc4bca4fc925/platforms/PortSwigger/web-security/Lab/Username%20enumeration%20via%20subtly%20different%20responses/images/password-Assignment4.png)
 
 Then, I inserted those correct credentials, and finished the lab.
 
-![Screenshot of the finished lab session]()
+![Screenshot of the finished lab session](https://github.com/FikuriKuri/Writeups/blob/ac93adb906531c55fe29c6a0d012cc4bca4fc925/platforms/PortSwigger/web-security/Lab/Username%20enumeration%20via%20subtly%20different%20responses/images/result-Assignment4.png)
